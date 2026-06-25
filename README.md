@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on a [Demographic Data Analyzer](https://github.com/Outeyral/Project2/tree/main/Proyecto%202)
 
-- 🌱 I’m currently learning **Data Science, Data Analytics and Salesforce**
+- 🌱 I’m currently learning **Data Science and Data Analytics**
 
 - 📫 Contact me! **outeyral99@gmail.com**
 
-- 📄 Look at my CV: [https://docs.google.com/document/d/1Pl5UdbS-GrQt-cJmLT-eSC3ytDupco8nWJQFA9vhrHg/edit?usp=sharing](https://docs.google.com/document/d/1Pl5UdbS-GrQt-cJmLT-eSC3ytDupco8nWJQFA9vhrHg/edit?usp=sharing)
+- 📄 Look at my CV: [https://docs.google.com/document/d/1eky6Cyg1M5GZbkmyujj1plzwg1HdLpwp1yH9YoqKKEc/edit?tab=t.0](https://docs.google.com/document/d/1eky6Cyg1M5GZbkmyujj1plzwg1HdLpwp1yH9YoqKKEc/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
